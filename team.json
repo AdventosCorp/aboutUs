@@ -1,0 +1,97 @@
+[
+    {
+        "section": "Corporate",
+        "person": [
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/marianoDelleDonne-min.jpg",
+                "name": "Mariano Delle Donne",
+                "label": "Adventos, CEO & Founder"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/jimZapapas-min.jpg",
+                "name": "Jim Zapapas",
+                "label": "Controller"
+            }
+        ]
+    },
+    {
+        "section": "Solutions",
+        "person": [
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/brianMcGrew-min.jpg",
+                "name": "Brian McGrew",
+                "label": "VP of Marketing and Education"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/jaredRose-min.jpg",
+                "name": "Jared Rose",
+                "label": "VP of Sales and Training"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/dougOwens-min.jpg",
+                "name": "Doug Owens",
+                "label": "Director of Implementation"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/davidBibiloni-min.jpg",
+                "name": "David Bibiloni",
+                "label": "Regional Implementation Manager"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/michealPatrick-min.jpg",
+                "name": "Micheal Patrick",
+                "label": "Systems Admin"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/mariaLauraFerradas-min.jpg",
+                "name": "Maria Laura Ferradas",
+                "label": "Quality Assurance"
+            }
+        ]
+    },
+    {
+        "section": "Development",
+        "person": [
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/joseHerrera-min.jpg",
+                "name": "Jose Herrera",
+                "label": "VP of Product Development and Customer Success"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/julianTobio-min.jpg",
+                "name": "Julian Tobio",
+                "label": "Sr. Developer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/lucianaQuinteros-min.jpg",
+                "name": "Luciana Quinteros",
+                "label": "Sr. Developer"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/juanSaissac-min.jpg",
+                "name": "Juan Saissac",
+                "label": "Developer"
+            }
+        ]
+    },
+    {
+        "section": "Design",
+        "person": [
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/gonzaloCervantes-min.jpg",
+                "name": "Gonzalo Cervantes",
+                "label": "Design Manager"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/florenciaAntacle-min.jpg",
+                "name": "Florencia Antacle",
+                "label": "UI/UX Consultant"
+            },
+            {
+                "img": "https://adventoscorp.github.io/aboutUs/images/facundoPedrazzini-min.jpg",
+                "name": "Facundo Pedrazzini",
+                "label": "Sr. Developer"
+            }
+        ]
+    }
+]; 
